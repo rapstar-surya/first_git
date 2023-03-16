@@ -1,0 +1,34 @@
+*{
+    padding-left: 10px;
+}
+
+
+.btn-1{
+    color: black;
+    box-sizing: border-box;
+    height: 40px;
+    width: 20rem;
+    border-radius: 5px;
+}
+
+.btn-2{
+    color: black;
+    box-sizing: border-box;
+    height: 40px;
+    width: 20rem;
+    border-radius: 5px ;
+}
+
+.login{
+    color: rgb(247, 246, 246);
+    background-color: rgb(49, 49, 163);
+    box-sizing: border-box;
+    height: 40px;
+    width: 20rem;
+    border-radius: 5px ;
+    text-align: center;
+    padding-top: 4px;
+    cursor: pointer;
+    font-size: 1.2rem;
+    
+}

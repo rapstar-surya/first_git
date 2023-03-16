@@ -1,0 +1,23 @@
+.Apps{
+    font-family: sans-serif;
+    
+}
+
+.input-container{
+    position: relative;
+
+}
+.input{
+    border: 5px solid blue;
+    padding: 0.5rem 0.5rem;
+    margin-top: 20px;
+    width: 200px;
+    height: 200px;
+    
+}
+.error{
+    /* position: absolute; */
+    top: 0.5rem;
+    left: 0;
+    color: red;
+}
