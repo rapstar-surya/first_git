@@ -1,0 +1,60 @@
+
+
+/* .nav {
+        width: 50%;
+    }
+
+    .nav ul {
+        overflow: auto;
+
+    }
+
+    .nav li {
+        float: left;
+        list-style: none;
+        padding: 13px 20px;
+    }
+
+    .nav li.r {
+        float: right;
+
+    }
+
+    .container {
+        display: flex;
+    }
+
+    .left {
+        height: 600px;
+        width: 600px;
+    }
+
+    .right {
+        height: 300px;
+        width: 300px;
+
+    }
+
+    .btn {
+        float: right;
+        width: 50%;
+        align-self: center;
+    }
+
+    .divtop {
+        display: flex;
+        justify-content: space-between;
+        width: 100vw;
+    }
+
+    @media screen and (max-width : 640px) {
+        .nav {
+            display: none;
+
+        }
+
+        .container {
+            margin-top: 6rem;
+        }
+
+    } */
