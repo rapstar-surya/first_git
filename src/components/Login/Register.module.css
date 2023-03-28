@@ -1,0 +1,29 @@
+.logincontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .profileimg {
+    border-radius: 50%;
+    margin-top: 2rem;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .loginform {
+    display: flex;
+    flex-direction: column;
+    margin-top: 2rem;
+  }
+  
+  label {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+  }
+  
+  button[type="submit"] {
+    margin-top: 1rem;
+  }
+  

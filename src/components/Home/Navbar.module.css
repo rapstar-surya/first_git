@@ -1,0 +1,20 @@
+*{
+    list-style-type: none;
+}
+.mainNav{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.menuLinks{
+    display: flex;
+    color: blue;
+
+}
+.menuLinks li{
+    margin-right: 3rem;
+}
+
