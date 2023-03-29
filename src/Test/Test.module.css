@@ -1,0 +1,21 @@
+*{
+    font-size: large;
+}
+.hTwo{
+    color: blue;
+}
+.btn{
+    float: right;
+    margin-right: 10%;
+    background-color: red;
+    border-radius: 20%;
+}
+.mainNav{
+    /* background-color: grey; */
+    height: 300px;
+    width: 500px;
+    margin-left: 30%;
+    margin-top: 5%;
+    border: 1px solid blueviolet;
+    border-radius: 10%;
+}
