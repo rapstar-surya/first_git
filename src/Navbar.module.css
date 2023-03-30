@@ -1,0 +1,8 @@
+*{
+    list-style-type: none;
+}
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    color: blue;
+}
