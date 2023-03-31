@@ -1,0 +1,13 @@
+.mainDiv{
+    height: 300px;
+    width: 300px;
+    border: 1px solid blueviolet;
+    border-radius: 5%;
+    margin: 15px 15px;
+}
+.imeg{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
