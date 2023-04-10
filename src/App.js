@@ -1,24 +1,24 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
+import { useNavigate } from "react-router-dom";
 
 function App() {
+  const Navigate = useNavigate();
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <header className="App">
+      <h1>Click on below text to see assignments</h1>
+      <div className="header">
+        <button className="btn" onClick={() => Navigate("/first")}>
+          1st Assignment
+        </button>
+        <button className="btn" onClick={() => Navigate("/second")}>
+          2nd Assignment
+        </button>
+        <button className="btn" onClick={() => Navigate("/third")}>
+          3rd Assignment
+        </button>
+      </div>
+    </header>
   );
 }
 
