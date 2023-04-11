@@ -1,0 +1,27 @@
+.posts-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.posts-table th,
+.posts-table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+}
+
+.posts-table th {
+    background-color: #f2f2f2;
+}
+
+.remove-btn {
+    cursor: pointer;
+    color: #007bff;
+    display: flex;
+    justify-content: center;
+}
+
+.remove-btn:hover {
+    text-decoration: underline;
+}
